@@ -85,6 +85,7 @@ body {
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
     font-size: 16px;
+   
 }
 
 .button-container {
@@ -116,8 +117,8 @@ button {
 }
 
 .button-add {
-    background-color: var(--color-tertiary);
-    color: var(--color-text);
+    background-color: rgb(17, 166, 211);
+    color: white;
     border-radius: 0 25px 25px 0;
 }
 
@@ -140,6 +141,7 @@ ul {
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    
 }
 
 /* Botão de sortear título */
